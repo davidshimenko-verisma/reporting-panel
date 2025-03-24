@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7XH5xjPPGw=",
+  "success": true,
+  "projectFilePath": "/Users/work/verisma/skunkworks/reporting-panel/backend/reporting-panel/reporting-panel.csproj",
+  "expectedPackageFiles": [
+    "/Users/work/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/work/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
